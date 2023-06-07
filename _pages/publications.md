@@ -7,7 +7,7 @@ title: publications
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --order descending %}
 
 
 </div>
